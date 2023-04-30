@@ -1,6 +1,6 @@
 ---
-title:  "My name is WJ"
-excerpt: "I am currently enrolled at Dankook University and engaged in the following activities."
+title:  "제 이름은 정원준입니다."
+excerpt: "단국대학교에서 재학중이며 다음과 같은 활동을 하고 있습니다."
 
 categories:
   - Blog
