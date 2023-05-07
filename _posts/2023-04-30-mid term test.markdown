@@ -5,7 +5,7 @@ excerpt: "단국대학교에서 재학중이며 다음과 같은 활동을 하�
 <!--categories:
   - Blog
 tags:
-  - [init, Blog]
+  - []
 
 toc: true
 toc_sticky: true
