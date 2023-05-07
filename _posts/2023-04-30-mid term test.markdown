@@ -17,7 +17,7 @@ last_modified_at: 2023-04-30
 <!--본문 시작-->
 # 간략한 소개
 
-안녕하십니까 여러분. 저는 정원준이고 현재 단국대학교에 재학중입니다.
+안녕하십니까 여러분. 저는 소프트웨어학과 19학번 정원준이고 현재 단국대학교에 재학중입니다.
 
 <!--![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13OvrfNt4J9P0fXCZjhQ5UJ-xyOlLHAgu5w&usqp=CAU)
 
