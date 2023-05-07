@@ -17,7 +17,7 @@ last_modified_at: 2023-04-30
 <!--본문 시작-->
 # 간략한 소개
 
-![image](https://webinfo.dankook.ac.kr/tiac/comm/syst/file/download.do?fileSeq=1788914&fileCdval=20190215180952996746138255)
+![image](https://webinfo.dankook.ac.kr/tiac/comm/syst/file/download.do?fileSeq=1788914&fileCdval=20190215180952996746138255){: .align-center}{: width="20%" height="20%"}
 
 안녕하십니까 여러분. 저는 소프트웨어학과 19학번 정원준이고 현재 단국대학교에 재학중입니다.
 
