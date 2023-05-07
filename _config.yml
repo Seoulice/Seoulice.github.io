@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "정원준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "mid-term test"
+  bio              : "developer"
   location         : "korea"
-  email            :
+  email            : "32194167@dankook.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
